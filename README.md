@@ -1,8 +1,8 @@
 # MorphTool-For-FBX
 
 first, you need https://github.com/x3bits/libmmd-for-unity<br>
-then you mast rewrite switch(_ModelType){} to fit your model<br>
-and last drop PlayMorph.cs and set LoadVmd()<br>
+then you mast rewrite `switch(_ModelType){}` to fit your model<br>
+and last drop `PlayMorph.cs` and set ` LoadVmd()`<br>
 
 -------------------------------------------------------------------------------------------------------------<br>
 ----------PlayMorph.cs---------------------------------------------------------------------------------------<br>
