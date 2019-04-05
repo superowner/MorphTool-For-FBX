@@ -8,6 +8,7 @@ and last drop PlayMorph.cs and set LoadVmd()
 ----------PlayMorph.cs---------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------
 
+```C#
 using LibMMD.Motion;
 using LibMMD.Reader;
 using System.Collections;
@@ -136,5 +137,6 @@ public class PlayMorph : MonoBehaviour
         }
     }
 }
+```
 
 
