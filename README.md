@@ -4,6 +4,9 @@ first, you need https://github.com/x3bits/libmmd-for-unity
 then you mast rewrite switch(_ModelType){} to fit your model
 and last drop PlayMorph.cs and set LoadVmd()
 
+-------------------------------------------------------------------------------------------------------------
+----------PlayMorph.cs---------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
 
 using LibMMD.Motion;
 using LibMMD.Reader;
